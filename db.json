@@ -7,7 +7,7 @@
 "endDate":"28-May-19",
 "cStatus":"Active",
 "sqa":"Jyoti Prakash",
-"cowner:"Deepak Parera",
+"cowner":"Deepak Parera",
 "cdescription":"This is the cluster1 for general test Quantum"
 },
 {
@@ -17,7 +17,7 @@
 "endDate":"30-Apr-19",
 "cStatus":"Active",
 "sqa":"Muktikant Sharma",
-"cowner:"Abhisek Mukund",
+"cowner":"Abhisek Mukund",
 "cdescription":"This is the cluster2 for general test Quantum"
 },
 {
@@ -27,7 +27,7 @@
 "endDate":"20-Mar-19",
 "cStatus":"Inactive",
 "sqa":"Bibhuti Chaska",
-"cowner:"Deepak Parera",
+"cowner":"Deepak Parera",
 "cdescription":"This is the cluster3 for general test Quantum"
 },
 {
@@ -37,7 +37,7 @@
 "endDate":"28-Feb-19",
 "cStatus":"Inactive",
 "sqa":"Chakra Pani",
-"cowner:"Abhisek Mukund",
+"cowner":"Abhisek Mukund",
 "cdescription":"This is the cluster4 for general test Quantum"
 }
 ]
