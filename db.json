@@ -1,5 +1,5 @@
-[
-"cluster":
+{
+"cluster":[
 {
 "cid": "XYZ7890WBT",
 "cName":"Cluster1",
@@ -41,3 +41,4 @@
 "cdescription":"This is the cluster4 for general test Quantum"
 }
 ]
+}
