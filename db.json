@@ -8,7 +8,10 @@
 "status":"CRTD",
 "sqa":"Jyoti Prakash",
 "owner":"Deepak Parera",
-"description":"This is the cluster1 for general test Quantum"
+"clusterDesc":"This is the cluster1 for general test Quantum",
+"createBy":"Mujibur",
+"createOn":"09-Sep-2019",
+"wbs":["ABC","DEF"]
 },
 {
 "id": "WYZ2890WSQ",
@@ -18,7 +21,10 @@
 "status":"REL",
 "sqa":"Muktikant Sharma",
 "owner":"Abhisek Mukund",
-"description":"This is the cluster2 for general test Quantum"
+"clusterDesc":"This is the cluster2 for general test Quantum",
+"createBy":"Saleem",
+"createOn":"07-Sep-2019",
+"wbs":["ABC","DEF"]
 },
 {
 "id": "MYZ78902BT",
@@ -28,7 +34,10 @@
 "status":"TECO",
 "sqa":"Bibhuti Chaska",
 "owner":"Deepak Parera",
-"description":"This is the cluster3 for general test Quantum"
+"clusterDesc":"This is the cluster3 for general test Quantum",
+"createBy":"Nasreen",
+"createOn":"09-Sep-2019",
+"wbs":["ABC","DEF"]
 },
 {
 "id": "FYZ7890W67",
@@ -38,7 +47,10 @@
 "status":"CLSD",
 "sqa":"Chakra Pani",
 "owner":"Abhisek Mukund",
-"description":"This is the cluster4 for general test Quantum"
+"clusterDesc":"This is the cluster4 for general test Quantum",
+"createBy":"Rahim",
+"createOn":"09-Sep-2019",
+"wbs":["ABC","DEF"]
 }
 ]
 }
