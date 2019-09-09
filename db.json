@@ -1,44 +1,44 @@
 {
 "cluster":[
 {
-"cid": "XYZ7890WBT",
-"cName":"Cluster1",
+"id": "XYZ7890WBT",
+"name":"Cluster1",
 "startDate":"21-May-19",
 "endDate":"28-May-19",
-"cStatus":"Active",
+"status":"CRTD",
 "sqa":"Jyoti Prakash",
-"cowner":"Deepak Parera",
-"cdescription":"This is the cluster1 for general test Quantum"
+"owner":"Deepak Parera",
+"description":"This is the cluster1 for general test Quantum"
 },
 {
-"cid": "WYZ2890WSQ",
-"cName":"Cluster2",
+"id": "WYZ2890WSQ",
+"name":"Cluster2",
 "startDate":"15-Apr-19",
 "endDate":"30-Apr-19",
-"cStatus":"Active",
+"status":"REL",
 "sqa":"Muktikant Sharma",
-"cowner":"Abhisek Mukund",
-"cdescription":"This is the cluster2 for general test Quantum"
+"owner":"Abhisek Mukund",
+"description":"This is the cluster2 for general test Quantum"
 },
 {
-"cid": "MYZ78902BT",
-"cName":"Cluster3",
+"id": "MYZ78902BT",
+"name":"Cluster3",
 "startDate":"16-Mar-19",
 "endDate":"20-Mar-19",
-"cStatus":"Inactive",
+"status":"TECO",
 "sqa":"Bibhuti Chaska",
-"cowner":"Deepak Parera",
-"cdescription":"This is the cluster3 for general test Quantum"
+"owner":"Deepak Parera",
+"description":"This is the cluster3 for general test Quantum"
 },
 {
-"cid": "FYZ7890W67",
-"cName":"Cluster4",
+"id": "FYZ7890W67",
+"name":"Cluster4",
 "startDate":"23-Feb-19",
 "endDate":"28-Feb-19",
-"cStatus":"Inactive",
+"status":"CLSD",
 "sqa":"Chakra Pani",
-"cowner":"Abhisek Mukund",
-"cdescription":"This is the cluster4 for general test Quantum"
+"owner":"Abhisek Mukund",
+"description":"This is the cluster4 for general test Quantum"
 }
 ]
 }
